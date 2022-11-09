@@ -1,0 +1,28 @@
+[
+    {
+        "heading_text": "Talk about these pictures. Put a cross (x) on the unsafe pictures:",
+        "heading_bgColor":"#9b1714",
+        "heading_txtColor":"#fff"
+    },
+    {
+        "question_image": "img1.webp",
+        "is_correct": "yes",
+        "result": "wrong.webp"
+    },
+    {
+        "question_image": "img2.webp",
+        "is_correct": "no",
+        "result": ""
+    },
+    {
+        "question_image": "img3.webp",
+        "is_correct": "yes",
+        "result": "wrong.webp"
+    },
+    {
+        "question_image": "img4.webp",
+        "is_correct": "no",
+        "result": ""
+
+    }
+]
